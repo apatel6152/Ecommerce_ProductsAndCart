@@ -14,6 +14,10 @@ The app includes the following features:
 1. Home page with featured products
 2. Cart page for managing cart items and checkout process
 
+## Endpoints
+
+GET ('https://fh-api-dev.herokuapp.com/api/products-service/products/website/CAD?page=0&limit=6'): Get all products
+
 ## Available Scripts
 
 In the project directory, you can run:
