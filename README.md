@@ -1,4 +1,4 @@
-#Ecommerce store
+##Ecommerce store
 This is the frontend app for an ecommerce store built using React. It allows users to view and purchase products, as well as manage their cart.
 
 ## Getting Started 
