@@ -11,8 +11,8 @@ To get started with the app, you'll need to do the following:
 
 The app includes the following features:
 
-Home page with featured products
-Cart page for managing cart items and checkout process
+1. Home page with featured products
+2. Cart page for managing cart items and checkout process
 
 ## Available Scripts
 
