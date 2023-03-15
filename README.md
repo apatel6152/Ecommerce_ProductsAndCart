@@ -7,6 +7,13 @@ To get started with the app, you'll need to do the following:
 2. Install the dependencies using npm install 
 3. Run the app using npm start
 
+## Features
+
+The app includes the following features:
+
+Home page with featured products
+Cart page for managing cart items and checkout process
+
 ## Available Scripts
 
 In the project directory, you can run:
