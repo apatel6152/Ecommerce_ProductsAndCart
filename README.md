@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+#Ecommerce store
+This is the frontend app for an ecommerce store built using React. It allows users to view and purchase products, as well as manage their cart.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting Started 
+To get started with the app, you'll need to do the following: 
+1. Clone the repo 
+2. Install the dependencies using npm install 
+3. Run the app using npm start
 
 ## Available Scripts
 
