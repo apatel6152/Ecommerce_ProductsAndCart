@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Product />
-    </div>
+    </div> 
   );
 }
 

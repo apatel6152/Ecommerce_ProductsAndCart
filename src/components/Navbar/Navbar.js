@@ -18,13 +18,13 @@ const Navbar = () => {
           </span>
         </div>
         <div className="flex items-center">
-          <div className="mr-4">
+          <div className="relative mr-4">
             <button
               onClick={() => dispatch(open())}
               className="text-white font-bold "
             >
               <BsBag />
-              <span className="text-white font-semibold ml-1">{amount}</span>
+              <div className="text-white font-semibold ml-1 absolute w-4 h-4 rounded-full z-2 right-[-3px] bottom-[-3px] flex items center justify-center text-[10px] bg-black">{amount}</div>
             </button>
           </div>
         </div>
